@@ -18,3 +18,4 @@ plot(cars)
 ```
 
 On veut garder une trace du script ainsi on va push les fichiers .Rmd et .md. Le .md est celui qui va être interpretable par github pour faire une page. Ce fichier va être associé à un dossier contenant les figures à part, qui seront utilisées par github pour faire la présentation. 
+
